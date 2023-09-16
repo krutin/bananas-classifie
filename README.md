@@ -1,5 +1,10 @@
 # bananas-classifie
 
+*""*DESCLAIMER*""*
+DOWNLOAD AND PLACE FRUITS360 DATASET FROM KAGGLE AND PLACE IN 
+THE SAME FOLDER LINK:-https://www.kaggle.com/datasets/lucianon/banana-ripeness-dataset
+
+and the tensorflow version must be 2.50
 
 
 
